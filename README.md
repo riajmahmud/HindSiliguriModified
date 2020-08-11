@@ -15,8 +15,3 @@ SIL OpenFont is a free software license, and fonts covered by this license can b
 So this modified font is also published under SIL OpenFont License.
 
 Please visit https://scripts.sil.org/OFL for more information.
-
-
-Thank You!
--Riaj Mahmud Rasel
-https://riaj.net
