@@ -16,7 +16,7 @@ So this modified font is also published under SIL OpenFont License.
 
 Please visit https://scripts.sil.org/OFL for more information.
 
-Thank You!
 
+Thank You!
 -Riaj Mahmud Rasel
 https://riaj.net
