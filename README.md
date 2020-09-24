@@ -15,3 +15,8 @@ SIL OpenFont is a free software license, and fonts covered by this license can b
 So this modified font is also published under SIL OpenFont License.
 
 Please visit https://scripts.sil.org/OFL for more information.
+
+
+## TWO VERSIONS PUBLISHED TILL NOW ##
+>> 24-09-2020: (version 2) : Redesigned character ন + স = ন্স . (Thank you Naimur Rahman for finding out the problem with the original font)
+>> INITIAL: (long time ago) : Redesigned character 'Bangla 1 (one)'
